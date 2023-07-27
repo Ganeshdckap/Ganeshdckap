@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Journal Writing**
 
-- 🌱 I’m currently learning **UI UX Design Adobe XD**
+- 🌱 I’m currently learning **Adobe XD**
 
 - 👯 I’m looking to collaborate on **Todo App**
 
