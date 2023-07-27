@@ -7,6 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **Journal Writing**
+
+- 🌱 I’m currently learning **UI UX Design Adobe XD**
+
+- 👯 I’m looking to collaborate on **Todo App**
+
+- 👨‍💻 All of my projects are available at [https://ganesh0104.w3spaces.com/](https://ganesh0104.w3spaces.com/)
+
+- 📝 I regularly write articles on [https://ganeshclicks2k.wordpress.com](https://ganeshclicks2k.wordpress.com)
+
+- 📫 How to reach me **ganeshmdckap@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ganesh murali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh murali" height="30" width="40" /></a>
